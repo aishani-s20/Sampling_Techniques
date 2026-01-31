@@ -37,7 +37,7 @@ We utilized a calculated sample size ($n=385$) based on a 95% confidence level a
 
 The table below summarizes the accuracy achieved by each model when trained on the various sampling types:
 
-| Model | Sampling 1 | Sampling 2 | Sampling 3 | Sampling 4 | Sampling 5 |
+| Model | Simple Random | Systematic | Stratified | Cluster | Bootstrap |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **M1 (Logistic Regression)** | 89.61 | 85.71 | 88.31 | 89.61 | **96.10** |
 | **M2 (Random Forest)** | **100.00** | **100.00** | 98.70 | **100.00** | **100.00** |
